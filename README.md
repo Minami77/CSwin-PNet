@@ -1,2 +1,2 @@
-# BUS-Segmentation
+# CSwin-PNet
 coming soon!

@@ -1,6 +1,5 @@
 # CSwin-PNet: A CNN-Swin Transformer combined pyramid network for breast lesion segmentation in ultrasound images
-[Paper](https://dx.doi.org/10.1016/j.eswa.2022.119024)
-coming soon!
+[Paper](https://dx.doi.org/10.1016/j.eswa.2022.119024)|[Code]coming soon!
 
 ## Citation
 ```tex
